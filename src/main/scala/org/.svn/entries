@@ -1,0 +1,34 @@
+9
+
+dir
+40
+https://rs-desktop:8443/svn/Scala/AkkaQActors/src/main/scala/org
+https://rs-desktop:8443/svn/Scala
+
+
+
+2012-06-19T12:09:05.713000Z
+40
+rs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f5120ec1-e71a-4c46-8243-09f7e7cfbc1e
+
+example
+dir
+
+websocket
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Scala/!svn/ver/40/AkkaQActors/src/main/scala/org/websocket
+END
+QWebSocketApp.scala
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Scala/!svn/ver/40/AkkaQActors/src/main/scala/org/websocket/QWebSocketApp.scala
+END
+Messages.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Scala/!svn/ver/36/AkkaQActors/src/main/scala/org/websocket/Messages.scala
+END
+Worker.scala
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Scala/!svn/ver/40/AkkaQActors/src/main/scala/org/websocket/Worker.scala
+END
+Utils.scala
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Scala/!svn/ver/38/AkkaQActors/src/main/scala/org/websocket/Utils.scala
+END
+Master.scala
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Scala/!svn/ver/40/AkkaQActors/src/main/scala/org/websocket/Master.scala
+END
+Listener.scala
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Scala/!svn/ver/34/AkkaQActors/src/main/scala/org/websocket/Listener.scala
+END
